@@ -1,2 +1,2 @@
-# DeepLearningCourse
-AI Python for Beginners
+# DeepLearningLearning
+AI Python for Beginners Course resources
